@@ -15,14 +15,14 @@ if (age >= 18) {
 } else {
     console.log("de férias😎")
 }
-if(birthday == 1 || birthday == 12){
+if (birthday == 1 || birthday == 12) {
     console.log("aniversário ta lonje ainda ;-;")
 }
-if(name.substr(0,1) == "R"){
+if (name.substr(0, 1) == "R") {
     console.log("Gangue do R")
-}else{
+} else {
     console.log("não é da gangue do r >:(")
 }
-if(name.substr(0,1) == "E" || secName.length >= 6){
+if (name.substr(0, 1) == "E" || secName.length >= 6) {
     console.log("eeeeee")
 }
