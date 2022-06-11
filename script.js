@@ -1,5 +1,5 @@
 
-let name = "evelyn"
+let name = "Evelyn"
 let secName = "lima"
 let age = 17
 let birthday = 10
@@ -22,4 +22,7 @@ if(name.substr(0,1) == "R"){
     console.log("Gangue do R")
 }else{
     console.log("não é da gangue do r >:(")
+}
+if(name.substr(0,1) == "E" || secName.length >= 6){
+    console.log("eeeeee")
 }
